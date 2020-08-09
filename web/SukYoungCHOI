@@ -1,0 +1,25 @@
+<!doctype html>
+<html>
+<head>
+  <title>최석영 대표 홈페이지</title>
+  <meta charset="utf-8">
+</head>
+<body>
+<h1>최석영</h1>
+<ol>
+  <li>오륜중학교 졸업</li>
+  <li>창덕여자고등학교 졸업</li>
+  <li><a href="https://snu.ac.kr/" target="_blank" title="서울대학교 홈페이지">
+   서울대학교</a> 언론정보학과 학사</li>
+  <li><a href="https://snu.ac.kr/" target="_blank" title="서울대학교 홈페이지">
+   서울대학교</a> 언론정보학과 석사</li>
+  <li>PhD candidate at the
+  <a href="https://www.usc.edu/" target="_blank" title="University of Southern California homepage">
+  University of Southern California</a></li>
+</ol>
+<p><a href="https://soonom.tistory.com/173"
+target="_blank" title="92년생 연예인">1992년생</a>
+현재 29세의 나이지만 <strong>내년에 <u>30세</u>를 앞두고 있다.</strong></p>
+<img src="SYChoi.jpg" width="100%">
+</body>
+</html>
