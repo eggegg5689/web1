@@ -1,0 +1,4 @@
+library(readxl)
+setwd("file")
+file_data < - read_excel("file name.xlsx", col_name = T)
+file_data
